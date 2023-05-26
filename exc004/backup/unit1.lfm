@@ -1,0 +1,19 @@
+object Form1: TForm1
+  Left = 352
+  Height = 240
+  Top = 33
+  Width = 320
+  Caption = 'Form1'
+  ClientHeight = 240
+  ClientWidth = 320
+  DesignTimePPI = 120
+  object btnExibir: TButton
+    Left = 72
+    Height = 64
+    Top = 96
+    Width = 190
+    Caption = 'EXIBIR'
+    OnClick = btnExibirClick
+    TabOrder = 0
+  end
+end

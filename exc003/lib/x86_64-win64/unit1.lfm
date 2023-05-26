@@ -1,0 +1,19 @@
+object Form1: TForm1
+  Left = 352
+  Height = 240
+  Top = 33
+  Width = 320
+  Caption = 'Form1'
+  ClientHeight = 240
+  ClientWidth = 320
+  DesignTimePPI = 120
+  object BtnCalcular: TButton
+    Left = 80
+    Height = 56
+    Top = 88
+    Width = 158
+    Caption = 'CALCULAR'
+    OnClick = BtnCalcularClick
+    TabOrder = 0
+  end
+end
